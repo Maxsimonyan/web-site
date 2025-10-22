@@ -1,0 +1,51 @@
+*{
+    margin:0px;
+    padding: 0px;
+    position: relative;
+    font-family: 'Courier New', Courier, monospace;
+}
+.lol3{
+    width: 43%;
+}
+.lol4{
+    box-shadow: 10px 10px 10px gray;
+}
+.lol1{
+    width: 43%;
+    height: 100px;
+    background-color: darkblue;
+    border: 10px 10px 0px 0px;
+    color: #fff;
+}
+.lol2>button{
+    width: 101px;
+    height: 27px;
+    border: none;
+    border-radius: 8px;
+}
+.lol2{
+    height: 27px;
+    width: 43%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+#lol31{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.cls{
+    display: none;
+}
+.cls1{
+    display: none;
+}
+.cls2{
+    display: none;
+}
+.bosskes{
+    left:404px;
+    top: 169px;
+}
+body{    overflow: hidden;}
